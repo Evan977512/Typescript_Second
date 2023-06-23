@@ -1,0 +1,24 @@
+{
+  "name": "typescript_second",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evan977512/Typescript_Second.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evan977512/Typescript_Second/issues"
+  },
+  "homepage": "https://github.com/Evan977512/Typescript_Second#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
