@@ -4,7 +4,7 @@ class TodoItem {
   // public complete: boolean;
 
   // 접근지정자(public, private, protected) can be assigned in the constructor ==> regares as a property
-  constructor(public id: number, public task: string, public complete: boolean) {
+  constructor(public id: number, public task: string, public complete: boolean = false) {
     this.id = id;
     this.task = task;
     this.complete = complete;
