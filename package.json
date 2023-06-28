@@ -24,7 +24,9 @@
     "lite-server": "^2.6.1"
   },
   "dependencies": {
+    "@types/inquirer": "^9.0.3",
     "concurrently": "^8.2.0",
+    "inquirer": "^8.2.5",
     "nodemon": "^2.0.22"
   }
 }
